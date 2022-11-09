@@ -1,7 +1,7 @@
 # Team-Profile-Generator
 
 ## Description
-We were challenged to build a coomand-line application that takes in data about employees and generates a webpage that displays cards for each individual. Another part of the challenge is to write unit tests for each portion of the code, ensuring that each passes. 
+We were challenged to build a command-line application that takes in data about employees and generates a webpage that displays cards for each individual. Another part of the challenge is to write unit tests for each portion of the code, ensuring that each passes. 
 
 ## User Story
 AS A manager <br>
